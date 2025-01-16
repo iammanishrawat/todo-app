@@ -82,10 +82,10 @@ body {
   align-items: flex-start;
 }
 
-.todos li.todo:has(input:checked) label {
+/* .todos li.todo:has(input:checked) label {
   color: hsl(200, 20%, 40%);
   text-decoration: line-through;
-}
+} */
 
 .todos li.todo {
   display: flex;
